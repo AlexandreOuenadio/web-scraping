@@ -1,0 +1,142 @@
+[
+   {
+      "name": "lago",
+      "description": "Open Source Metering and Usage Based Billing",
+      "lastUpdate": "Updated\n            Dec 1, 2022",
+      "mainLanguage": "Shell",
+      "stars": 1300
+   },
+   {
+      "name": "FinancePy",
+      "description": "A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.",
+      "lastUpdate": "Updated\n            Nov 26, 2022",
+      "mainLanguage": "Jupyter Notebook",
+      "stars": 1100
+   },
+   {
+      "name": "lotus",
+      "description": "Open Source Pricing & Packaging Infrastructure for SaaS",
+      "lastUpdate": "Updated\n            Dec 1, 2022",
+      "mainLanguage": "Python",
+      "stars": 556
+   },
+   {
+      "name": "Finance-Python",
+      "description": "python tools for Finance with the functionality of indicator calculation, business day calculation and so on.",
+      "lastUpdate": "Updated\n            Dec 26, 2021",
+      "mainLanguage": "Python",
+      "stars": 485
+   },
+   {
+      "name": "awesome-billing",
+      "description": "💰 Billing & Payments Knowledge for Cloud Platforms",
+      "lastUpdate": "Updated\n            Nov 23, 2022",
+      "mainLanguage": null,
+      "stars": 426
+   },
+   {
+      "name": "amazon-alert",
+      "description": "Track prices on Amazon and receive email alerts for price drops",
+      "lastUpdate": "Updated\n            Jan 22, 2017",
+      "mainLanguage": "Python",
+      "stars": 306
+   },
+   {
+      "name": "laraplans",
+      "description": "SaaS style recurring plans for Laravel.",
+      "lastUpdate": "Updated\n            Oct 5, 2020",
+      "mainLanguage": "PHP",
+      "stars": 174
+   },
+   {
+      "name": "ec2instancespricing",
+      "description": "Quick and dirty Python API and CLI to get EC2 instance pricing for On-Demand and Reserved Instances",
+      "lastUpdate": "Updated\n            Jul 29, 2022",
+      "mainLanguage": "Python",
+      "stars": 169
+   },
+   {
+      "name": "terraform-aws-pricing",
+      "description": "Terraform module which calculates price of AWS infrastructure (from Terraform state and plan) 🇺🇦",
+      "lastUpdate": "Updated\n            Nov 16, 2022",
+      "mainLanguage": "HCL",
+      "stars": 126
+   },
+   {
+      "name": "notebooks",
+      "description": "Implement, demonstrate, reproduce and extend the results of the Risk articles 'Differential Machine Learning' (2020) and 'PCA with a Difference' (2021) by Huge and Savine, and cover implementation details left out from the papers.",
+      "lastUpdate": "Updated\n            Oct 5, 2022",
+      "mainLanguage": "Jupyter Notebook",
+      "stars": 105
+   },
+   {
+      "name": "awesome-priceops",
+      "description": "Links to articles, guides and resources related to software pricing and its implementation.",
+      "lastUpdate": "Updated\n            Nov 17, 2022",
+      "mainLanguage": null,
+      "stars": 84
+   },
+   {
+      "name": "insurancerating",
+      "description": "R-package for actuarial pricing",
+      "lastUpdate": "Updated\n            Sep 25, 2022",
+      "mainLanguage": "R",
+      "stars": 43
+   },
+   {
+      "name": "FinancialToolbox.jl",
+      "description": "Useful functions for Black–Scholes Model in the Julia Language",
+      "lastUpdate": "Updated\n            Jun 17, 2022",
+      "mainLanguage": "Julia",
+      "stars": 35
+   },
+   {
+      "name": "dbcost",
+      "description": "The simple pricing calculator and comparison tool for the cloud databases.",
+      "lastUpdate": "Updated\n            Dec 1, 2022",
+      "mainLanguage": "TypeScript",
+      "stars": 29
+   },
+   {
+      "name": "awesome-dynamic-pricing",
+      "description": "😎 awesome dynamic pricing 💵",
+      "lastUpdate": "Updated\n            Oct 27, 2022",
+      "mainLanguage": null,
+      "stars": 29
+   },
+   {
+      "name": "fypy",
+      "description": "Vanilla and exotic option pricing library to support quantitative R&D. Focus on pricing interesting/useful models  and contracts (including and beyond Black-Scholes), as well as calibration of financial models to market data.",
+      "lastUpdate": "Updated\n            Nov 17, 2022",
+      "mainLanguage": "Python",
+      "stars": 26
+   },
+   {
+      "name": "appendices",
+      "description": "Complement the article 'Differential Machine Learning' (Huge & Savine, 2020), including mathematical proofs and important implementation details for production",
+      "lastUpdate": "Updated\n            Oct 5, 2022",
+      "mainLanguage": null,
+      "stars": 26
+   },
+   {
+      "name": "market-pricing",
+      "description": "Wrapper for the unofficial Steam Market Pricing API",
+      "lastUpdate": "Updated\n            Apr 14, 2022",
+      "mainLanguage": "TypeScript",
+      "stars": 21
+   },
+   {
+      "name": "pricingscraper",
+      "description": "A webscraper which uses anonymous proxy IP to scrape and has intelligence to delay scraping, changing iP on request etc",
+      "lastUpdate": "Updated\n            Feb 1, 2018",
+      "mainLanguage": "Python",
+      "stars": 20
+   },
+   {
+      "name": "Pricing-optimization-Model",
+      "description": "Optimize revenues through pricing algorithm in python - Demand with uniform distribution",
+      "lastUpdate": "Updated\n            Oct 1, 2020",
+      "mainLanguage": "Jupyter Notebook",
+      "stars": 18
+   }
+]
