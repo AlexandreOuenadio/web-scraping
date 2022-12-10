@@ -1,7 +1,7 @@
 /* MODULES */
 const axios = require("axios");
 const fs = require("fs").promises;
-const {Parser} = require("@lanatools/html-parser");
+const {Parser} = require("@lanatools/html-parser"); // https://www.npmjs.com/package/@lanatools/html-parser
 
 
 
@@ -35,7 +35,7 @@ async function searchRepository(research) {
     selector: {
       name: "h3 a:last-child",
       description: ".color-bg-default .px-3 > div ",
-      lastUpdate: ".color-bg-default .p-3 .d-flex li:first-child",
+      lastUpdate: ".color-bg-default .p-3 .d-flex li:first-child", 
       mainLanguage: ".color-bg-default .p-3 .d-flex li:last-child .f6:last-child",
       stars: {
         selector: "span#repo-stars-counter-star",
