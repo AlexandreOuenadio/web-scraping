@@ -21,7 +21,7 @@ const parser = new Parser();
 
 async function searchRepository(research) {
 
-  //GET request to the github research page 
+  //GET request to the github search page 
   const {data: html} = await axios({
     method: "get",
     url: `https://github.com/topics/${research}`,
